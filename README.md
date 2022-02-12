@@ -1,1 +1,1 @@
-Currently working in notif_sender
+Javascript, React, Python, Solidity
